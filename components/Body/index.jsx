@@ -6,7 +6,7 @@ export default function Body() {
                 <div className="p-2">
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/animaca.jpg"
+                        src="/assets/sponsors/animaca.JPG"
                         className="h-16 rounded-md object-contain" />
                 </div>
 
@@ -18,7 +18,7 @@ export default function Body() {
                 <div className="p-2 flex justify-end">
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/nexo.jpg"
+                        src="/assets/sponsors/nexo.JPG"
                         className="h-16 rounded-md object-contain" />
                 </div>
             </div>
@@ -66,7 +66,7 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/krust.jpg"
+                        src="/assets/sponsors/krust.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex justify-center items-center flex-col mt-[85px]">
@@ -77,7 +77,7 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/chima_capital.jpg"
+                        src="/assets/sponsors/chima_capital.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex justify-center items-center flex-col mt-[85px]">
@@ -88,7 +88,7 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/anti_fund.jpg"
+                        src="/assets/sponsors/anti_fund.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex justify-center items-center flex-col">
@@ -108,13 +108,13 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/ngc.jpg"
+                        src="/assets/sponsors/ngc.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex items-center flex-col">
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/libra.jpg"
+                        src="/assets/sponsors/libra.JPG"
                         className=" h-16 rounded-md object-contain mt-[85px]" />
                     <div className="w-full flex flex-col items-center justify-center gap-2 p-1 mt-5">
                         <div className="border-2 bg-red-700 text-center border-[#00ff19] w-full p-2">
@@ -134,7 +134,7 @@ export default function Body() {
                 <div className="w-full flex justify-center">
                     <img
                         alt="algorand"
-                        src="/assets/cod_.jpg"
+                        src="/assets/cod_.JPG"
                         className="h-28 rounded-md object-contain" />
                 </div>
                 <div className="w-full flex flex-col items-center justify-center">
@@ -159,13 +159,13 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/rising_capital.jpg"
+                        src="/assets/sponsors/rising_capital.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex items-center flex-col">
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/everse.jpg"
+                        src="/assets/sponsors/everse.JPG"
                         className=" h-16 rounded-md object-contain mt-[85px]" />
                     <div className="w-full flex flex-col items-center justify-center gap-2 p-1 mt-5">
                         <div className="border-2 bg-blue-500 text-center border-[#00ff19] w-full p-2">
@@ -183,7 +183,7 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/gsr.jpg"
+                        src="/assets/sponsors/gsr.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex justify-center items-center flex-col mt-[85px]">
@@ -194,7 +194,7 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/capital.jpg"
+                        src="/assets/sponsors/capital.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex justify-center items-center flex-col mt-[85px]">
@@ -205,7 +205,7 @@ export default function Body() {
                     </div>
                     <img
                         alt="animaca"
-                        src="/assets/sponsors/coinhako.jpg"
+                        src="/assets/sponsors/coinhako.JPG"
                         className=" h-16 rounded-md object-contain mt-5" />
                 </div>
                 <div className="flex justify-center items-center flex-col">
@@ -256,13 +256,13 @@ export default function Body() {
                     <div className="flex justify-start items-center ml-5">
                         <img
                             alt="algorand"
-                            src="/assets/sponsors/algorand.jpg"
+                            src="/assets/sponsors/algorand.JPG"
                             className=" h-16 rounded-md object-contain" />
                     </div>
                     <div className="flex justify-center items-center">
                         <img
                             alt="algorand"
-                            src="/assets/sponsors/great_south_gate.jpg"
+                            src="/assets/sponsors/great_south_gate.JPG"
                             className=" h-16 rounded-md object-contain" />
                     </div>
                     <div className="flex justify-end items-center mr-5">
@@ -277,55 +277,55 @@ export default function Body() {
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/ngc.jpg"
+                                src="/assets/sponsors/ngc.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/gsr.jpg"
+                                src="/assets/sponsors/gsr.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/coinhako.jpg"
+                                src="/assets/sponsors/coinhako.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/animaca.jpg"
+                                src="/assets/sponsors/animaca.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/krust.jpg"
+                                src="/assets/sponsors/krust.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/chima_capital.jpg"
+                                src="/assets/sponsors/chima_capital.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/anti_fund.jpg"
+                                src="/assets/sponsors/anti_fund.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/algorand.jpg"
+                                src="/assets/sponsors/algorand.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                         <div className="flex justify-center items-center">
                             <img
                                 alt="algorand"
-                                src="/assets/sponsors/nexo.jpg"
+                                src="/assets/sponsors/nexo.JPG"
                                 className="h-16 w-20 rounded-md object-cover" />
                         </div>
                     </div>

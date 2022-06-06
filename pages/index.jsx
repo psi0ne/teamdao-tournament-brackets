@@ -8,7 +8,7 @@ export default function Index() {
       <Head>
         <title>Call of Duty : Mobile</title>
       </Head>
-      <div className="fixed h-screen w-screen bg-black/60">
+      <div className="fixed h-[1080px] w-screen bg-black/60">
         <Header />
         <Body />
       </div>
