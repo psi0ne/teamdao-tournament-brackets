@@ -1,6 +1,6 @@
 export default function Body() {
     return (
-        <div className="w-full grid grid-cols-9 gap-2">
+        <div className="w-full grid grid-cols-9 gap-2 h-full">
 
             <div className="col-span-full grid grid-cols-5">
                 <div className="p-2">
@@ -23,7 +23,7 @@ export default function Body() {
                 </div>
             </div>
 
-            <div className="grid grid-rows-4 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-4 h-[calc(1000px-350px)]">
                 <div className="flex flex-col items-center justify-center gap-2 p-1">
                     <div className="border-2 bg-red-700 text-center border-[#00ff19] w-full p-2">
                         <span className="text-gray-200 font-bold">XRAY-4</span>
@@ -57,7 +57,7 @@ export default function Body() {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-rows-4 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-4 h-[calc(1000px-350px)]">
                 <div className="flex justify-center items-center flex-col mt-[85px]">
                     <div className="w-full flex flex-col items-center justify-center gap-2 p-1">
                         <div className="border-2 bg-red-700 text-center border-[#00ff19] w-full p-2">
@@ -99,7 +99,7 @@ export default function Body() {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-rows-2 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-2 h-[calc(1000px-350px)]">
                 <div className="flex justify-center items-center flex-col mt-[85px]">
                     <div className="w-full flex flex-col items-center justify-center gap-2 p-1">
                         <div className="border-2 bg-red-700 text-center border-[#00ff19] w-full p-2">
@@ -123,14 +123,14 @@ export default function Body() {
                     </div>
                 </div>
             </div>
-            <div className="flex justify-center items-center h-[calc(100vh-350px)]">
+            <div className="flex justify-center items-center h-[calc(1000px-350px)]">
                 <div className="w-full flex flex-col items-center justify-center gap-2 p-1 mt-5">
                     <div className="border-2 bg-red-700 text-center border-[#00ff19] w-full p-2">
                         <span className="text-gray-200 font-bold">NONE</span>
                     </div>
                 </div>
             </div>
-            <div className="grid grid-rows-3 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-3 h-[calc(1000px-350px)]">
                 <div className="w-full flex justify-center">
                     <img
                         alt="algorand"
@@ -143,14 +143,14 @@ export default function Body() {
                     </div>
                 </div>
             </div>
-            <div className="flex justify-center items-center h-[calc(100vh-350px)]">
+            <div className="flex justify-center items-center h-[calc(1000px-350px)]">
                 <div className="w-full flex flex-col items-center justify-center gap-2 p-1 mt-5">
                     <div className="border-2 bg-blue-500 text-center border-[#00ff19] w-full p-2">
                         <span className="text-gray-200 font-bold">NONE</span>
                     </div>
                 </div>
             </div>
-            <div className="grid grid-rows-2 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-2 h-[calc(1000px-350px)]">
                 <div className="flex justify-center items-center flex-col mt-[85px]">
                     <div className="w-full flex flex-col items-center justify-center gap-2 p-1">
                         <div className="border-2 bg-blue-500 text-center border-[#00ff19] w-full p-2">
@@ -174,7 +174,7 @@ export default function Body() {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-rows-4 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-4 h-[calc(1000px-350px)]">
                 <div className="flex justify-center items-center flex-col mt-[85px]">
                     <div className="w-full flex flex-col items-center justify-center gap-2 p-1">
                         <div className="border-2 bg-blue-500 text-center border-[#00ff19] w-full p-2">
@@ -216,7 +216,7 @@ export default function Body() {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-rows-4 h-[calc(100vh-350px)]">
+            <div className="grid grid-rows-4 h-[calc(1000px-350px)]">
                 <div className="flex flex-col items-center justify-center gap-2 p-1">
                     <div className="border-2 bg-blue-500 text-center border-[#00ff19] w-full p-2">
                         <span className="text-gray-200 font-bold">CHARLIE-4</span>

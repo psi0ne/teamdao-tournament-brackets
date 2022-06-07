@@ -5,7 +5,7 @@ export default function Document() {
             <Head>
                 <meta charSet="utf-8" />
             </Head>
-            <body className="bg-[url(/assets/cod.jpg)] object-cover bg-center bg-cover bg-no-repeat h-screen overflow-auto">
+            <body className="bg-black">
                 <Main />
                 <NextScript />
             </body>

@@ -8,9 +8,13 @@ export default function Index() {
       <Head>
         <title>Call of Duty : Mobile</title>
       </Head>
-      <div className="fixed h-[1080px] w-screen bg-black/60">
-        <Header />
-        <Body />
+      <div className="absolute h-[1000px] w-[1800px] flex justify-center items-center overflow-auto">
+        <div className="bg-[url(/assets/cod.jpg)] h-[1000px] w-[1800px] object-cover bg-center bg-cover bg-no-repeat">
+          <div className="bg-black/60">
+            <Header />
+            <Body />
+          </div>
+        </div>
       </div>
     </>
   )
